@@ -11,6 +11,6 @@ The user should be able to input the filename for the drawing instructions. The 
  Furthermore, interfacing of a servo motor, an incremental encoder, an H bridge, an LS7366R up/down counter, and the Arduino.
  
  <-------Designing a thrust reverser actuation system lock (TRASL) using Solidworks----------->
- Designed a 3D model of a Thrust Reverser Actuation System Lock (TRASL) that had been carefully designed to achieve versatility and compatibility with both locking actuators and the third lock. 
+  Designed a 3D model of a Thrust Reverser Actuation System Lock (TRASL) that had been carefully designed to achieve versatility and compatibility with both locking actuators and the third lock. 
  The TRASL device had been engineered to withstand even the most challenging scenarios, with the maximum torque set at a robust 120 Nm in the event of a failure. The total weight of the TRASL, without fluids, is targeted at 3 kg, with a maximum limit of 3.5 kg to maintain the unit's manoeuvrability. The reserve stress factors had been set at a minimum of 1.5, providing an extra layer of safety for the user.
  For ease of maintenance, the TRASL unit could be attached to the Locking Actuators and Third Lock using M6 x 20 Aerospace Waspalloy fasteners, with the minimum size of any other fasteners set at M5 for added stability.
