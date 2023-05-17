@@ -41,4 +41,7 @@ The purpose of this experiment was to study air conditioning processes and analy
 
 Upon analyzing the experimental data, it was found that the theoretical data did not align closely with the observed results. This discrepancy suggests the presence of errors, either in the equipment used or in the data collection process itself. Notably, the most significant deviation between the experimental and theoretical data was observed at point C, which represents the cooling of both temperature bulbs after the initial heating. The recorded temperatures for the dry and wet bulb were 15.6°C and 13.9°C, respectively, whereas the theoretical data indicated temperatures of 20.5°C and 17.5°C for the dry and wet bulb, respectively.
 
+<---------- Numerical Methods ------------------>
+Implemented a finite-volume computer modelling technique in MATLAB to solve the steady-state 1D heat conduction equation under certain boundary conditions
+
 
