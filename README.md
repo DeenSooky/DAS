@@ -50,4 +50,8 @@ Upon analyzing the experimental data, it was found that the theoretical data did
 
 Implemented a finite-volume computer modelling technique in MATLAB to solve the steady-state 1D heat conduction equation under certain boundary conditions
 
+- Finite Element Analysis 
+
+Built a finite element model of notched, circular cross-section bar subjected to a nominal axial stress to determine the stress distribution in the component
+
 
