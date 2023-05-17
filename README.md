@@ -54,4 +54,8 @@ Implemented a finite-volume computer modelling technique in MATLAB to solve the 
 
 Built a finite element model of notched, circular cross-section bar subjected to a nominal axial stress to determine the stress distribution in the component
 
+- Computer Fluid Dynamics
+
+Generated a refined aerofoil case mesh with boundary conditions and its contour plot to determine the lift and drag forces experienced by the aerofoil.
+
 
