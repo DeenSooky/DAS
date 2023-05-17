@@ -34,3 +34,11 @@ Dirt: Represents dirt on the canvas with a randomly generated position. It has a
 
 The code also includes functions for handling button clicks, initializing the canvas, registering the active and passive objects, and running the simulation.
 To run the simulation, the function runOneExperiment is called with the desired number of bots. The bots will move around, collect dirt, and interact with charging stations based on their programmed behaviors.
+
+<--------------Air conditioning and refrigeration report -------------> 
+
+The purpose of this experiment was to study air conditioning processes and analyze the indicators of moisture and heat content in the surrounding air. The researchers utilized a psychrometric chart to examine the energy and absolute humidity of the air, and a p-h diagram (absolute pressure - specific enthalpy diagram) to investigate the energy change of the refrigerant in the cooling heat exchanger.
+
+Upon analyzing the experimental data, it was found that the theoretical data did not align closely with the observed results. This discrepancy suggests the presence of errors, either in the equipment used or in the data collection process itself. Notably, the most significant deviation between the experimental and theoretical data was observed at point C, which represents the cooling of both temperature bulbs after the initial heating. The recorded temperatures for the dry and wet bulb were 15.6°C and 13.9°C, respectively, whereas the theoretical data indicated temperatures of 20.5°C and 17.5°C for the dry and wet bulb, respectively.
+
+
