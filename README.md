@@ -5,6 +5,14 @@
 The goal is to read data from two files, "ShapeStrokeData.txt" and "DrawShapes.txt," which contain information on shapes and drawing instructions respectively. 
 The software should read the data from these files, process it, and send commands in the form of G-Code to the Arduino to control the drawing arm and produce drawings on a grid. The size of the shapes should be 20mm high. 
 The user should be able to input the filename for the drawing instructions. The software should be able to handle multiple sets of shapes from different instruction files in the same grid. The pen should finish in the pen-up position.
+
+ - MovieAPP
+
+The provided code represents a web page for a movie site. It includes HTML, CSS, and JavaScript code. The HTML structure consists of a top navigation bar with a search feature and a section for displaying movie cards. The CSS styles define the appearance of various elements on the page.
+
+The JavaScript code uses the Fetch API to retrieve movie data from the TMDB API. The `returnMovies` function sends a request to the API and receives a response containing movie information. It then iterates over the movie results, creates HTML elements dynamically (such as divs, images, and titles), and appends them to the section on the page. Additionally, an event listener is set up on the search form to handle user input and perform a new search when submitted.
+
+The next step in the development process is to connect the frontend code with backend technologies like Node.js and MongoDB. With Node.js, you can create a server-side application that handles API requests and communicates with the database. MongoDB can be used as the database to store and retrieve movie data. By integrating Node.js and MongoDB into the existing codebase, you can enhance the functionality of the movie site, such as allowing users to add and manage movie data, implement user authentication, and more
  
  - Lab1PrepDAS & Lab2PrepDAS
  
