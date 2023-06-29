@@ -13,6 +13,7 @@ The provided code represents a web page for a movie site. It includes HTML, CSS,
 The JavaScript code uses the Fetch API to retrieve movie data from the TMDB API. The `returnMovies` function sends a request to the API and receives a response containing movie information. It then iterates over the movie results, creates HTML elements dynamically (such as divs, images, and titles), and appends them to the section on the page. Additionally, an event listener is set up on the search form to handle user input and perform a new search when submitted.
 
 The next step in the development process is to connect the frontend code with backend technologies like Node.js and MongoDB. With Node.js, you can create a server-side application that handles API requests and communicates with the database. MongoDB can be used as the database to store and retrieve movie data. By integrating Node.js and MongoDB into the existing codebase, you can enhance the functionality of the movie site, such as allowing users to add and manage movie data, implement user authentication, and more
+Link to website https://deensooky.github.io/MovieAPP/
  
  - Lab1PrepDAS & Lab2PrepDAS
  
