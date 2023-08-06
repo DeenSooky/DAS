@@ -1,6 +1,6 @@
 # Deen Sooky's Portfolio 
 
-Software project DAS
+Drawing Bot
 - Developed software to read data from files "ShapeStrokeData.txt" and "DrawShapes.txt" containing shape information and drawing 
   instructions, respectively.
 - Processed the data and generated G-Code commands to control an Arduino-based drawing arm, enabling precise drawings on a 20mm high 
@@ -63,17 +63,17 @@ Air conditioning and refrigeration report
 - Analyzed experimental data and compared it with theoretical data, identifying discrepancies between the two datasets.
 - Noted the most significant deviation at point C, representing the cooling of temperature bulbs after initial heating.
 
-Numerical Methods 
+Numerical Methods (NM)
 - Developed a finite-volume computer modeling technique in MATLAB.
 - Applied the technique to solve the steady-state 1D heat conduction equation.
 - Utilized specific boundary conditions during the modeling process.
 
-Finite Element Analysis 
+Finite Element Analysis (FEA)
 - Constructed a finite element model of a notched, circular cross-section bar.
 - Analyzed the component's stress distribution under the influence of a nominal axial stress.
 - Utilized finite element analysis techniques to perform the stress analysis.
 
-Computer Fluid Dynamics
+Computer Fluid Dynamics (CFD)
 - Generated a refined mesh for an aerofoil case, considering boundary conditions for accurate simulations.
 - Utilized the refined mesh to perform numerical simulations and calculate lift and drag forces experienced by the aerofoil.
 - Presented the results as a contour plot to visualize the distribution of lift and drag forces on the aerofoil surface.
