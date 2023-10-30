@@ -17,7 +17,7 @@ MovieAPP
 - Prepared to enhance the site's functionality by integrating backend technologies such as Node.js and MongoDB.
 - Planned to create a server-side application to handle API requests and communicate with the MongoDB database.
 - Aimed to improve the site's features, including user authentication, adding and managing movie data, and more.
-- View the live website at: Movie Site Web Page
+- View the live website at: [Movie Site Web Page](https://deensooky.github.io/MovieAPP/)
  
 Lab1Prep & Lab2Prep
 - Investigated waveforms related to pulse width modulation and quadrature encoding by connecting diverse signal sources and sensors to 
